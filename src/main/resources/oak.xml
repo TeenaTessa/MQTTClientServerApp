@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Oak>
+    <NodeStore>
+        <MongoMK>
+            <url>mongodb://localhost:27017/repository</url>
+        </MongoMK>
+    </NodeStore>
+</Oak>
